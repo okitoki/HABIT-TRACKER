@@ -83,6 +83,7 @@ render(){
           onDelete = {this.handleDelete}
           onAdd = {this.handleAdd}
           onReset = {this.handleReset}></Habits>
+          <div>END...</div>
     </>);
 
 }
