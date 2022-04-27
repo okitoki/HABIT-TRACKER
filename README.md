@@ -1,3 +1,8 @@
-#My React simple practice project!!!
+# My React simple practice project!!!
 
-enjoy~ 
+This is my react practice project. 
+Nothing specail!
+just common simple todoList.
+
+
+to me of tomorrow.
